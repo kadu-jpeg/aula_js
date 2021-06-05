@@ -1,0 +1,12 @@
+body {
+    font-family: 'Euclid Circular A', 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+#titulo {
+    font-style: bold;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
